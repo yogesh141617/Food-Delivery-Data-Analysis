@@ -47,8 +47,9 @@ Python (Pandas, Google Colab), MySQL, Power BI
 
 
 ## Files
-- Dataset/ : Raw and cleaned datasets
-- Python_Analysis/ : Python data cleaning and analysis notebook
-- SQL/ : SQL queries and Python-MySQL integration code
-- PowerBI/ : Power BI dashboard file
+- Dataset/ : food_delivery_raw.csv
+- cleaned Dataset/ : food_delivery_cleaned.csv
+- Python_Analysis/ : Food_Delivery_Analysis.ipynb
+- SQL/ : SQL_Python_Integration.py
+- PowerBI/ : Food_Delivery_Dashboard.pbix
 - Images/ : Dashboard screenshots
